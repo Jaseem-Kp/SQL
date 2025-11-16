@@ -575,4 +575,20 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Both require careful consideration before execution
   - Essential for database maintenance and cleanup operations
  
-    
+### Day 35: SQL ALTER TABLE Statement
+*Date:* 16-11-2025
+- *ALTER TABLE Introduction:*
+  - Table Modification: Learning to change existing table structures
+  - ADD Column: Adding new columns to store additional data
+  - DROP COLUMN: Removing unnecessary columns from tables
+  - ALTER COLUMN: Changing data types of existing columns
+- *Basic Concepts:*
+  - Schema Evolution: Adapting table structures as requirements change
+  - Data Type Changes: Modifying column types when needed
+  - Column Management: Adding and removing fields dynamically
+  - Non-Destructive Changes: Modifying structure without data loss (usually)
+- *Current Understanding:*
+  - ALTER TABLE allows modifying existing table structures
+  - Can add, remove, or modify columns in live tables
+  - Essential for database maintenance and updates
+  - More flexible than dropping and recreating tables
