@@ -592,3 +592,22 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Can add, remove, or modify columns in live tables
   - Essential for database maintenance and updates
   - More flexible than dropping and recreating tables
+
+### Day 36: SQL Constraints Overview
+*Date:* 17-11-2025
+- *SQL Constraints Introduction:*
+  - Data Integrity: Learning to enforce data quality rules
+  - Constraint Types: Overview of NOT NULL, UNIQUE, PRIMARY KEY, FOREIGN KEY, CHECK, DEFAULT
+  - Application Methods: Applying constraints during CREATE TABLE or with ALTER TABLE
+  - Constraint Levels: Understanding column-level vs table-level constraints
+- *Basic Concepts:*
+  - Data Validation: How constraints prevent invalid data entry
+  - Reliability Assurance: Ensuring database contains only valid information
+  - Rule Enforcement: Automatic prevention of constraint violations
+  - Design Importance: Role of constraints in robust database architecture
+- *Current Understanding:* 
+  - Constraints define rules for data validity in tables
+  - Can be applied when creating or modifying tables
+  - Different constraint types serve different validation purposes
+  - Foundation for building reliable and maintainable databases
+ 
