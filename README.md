@@ -611,3 +611,22 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Different constraint types serve different validation purposes
   - Foundation for building reliable and maintainable databases
  
+### Day 37: SQL NOT NULL Constraint
+*Date:* 18-11-2025
+- *NOT NULL Constraint Introduction:*
+  - Required Fields: Learning to make columns mandatory
+  - CREATE TABLE Application: Applying NOT NULL during table creation
+  - ALTER TABLE Application: Adding NOT NULL to existing tables
+  - Database Syntax Variations: Different commands for SQL Server, MySQL, Oracle
+- *Basic Concepts:*
+  - Data Completeness: Ensuring essential information is always provided
+  - NULL Prevention: Blocking empty values in critical columns
+  - Field Importance: Identifying which columns should be required
+  - Validation Enforcement: Automatic rejection of incomplete records
+- *Current Understanding:*
+  - NOT NULL constraint prevents NULL values in specified columns
+  - Can be applied when creating or modifying tables
+  - Essential for fields that must always contain data
+  - Foundation for data quality and validation rules
+
+    
