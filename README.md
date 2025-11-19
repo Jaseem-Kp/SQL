@@ -629,4 +629,22 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Essential for fields that must always contain data
   - Foundation for data quality and validation rules
 
+### Day 38: SQL UNIQUE Constraint
+*Date:* 19-11-2025
+- *UNIQUE Constraint Introduction:*
+  - Duplicate Prevention: Learning to ensure all values are distinct
+  - Single Column Uniqueness: Applying UNIQUE to individual fields
+  - Composite Uniqueness: Creating unique constraints across multiple columns
+  - Database Variations: Different syntax for SQL Server, MySQL, Oracle
+- *Constraint Management:*
+  - CREATE TABLE Application: Adding UNIQUE during table creation
+  - ALTER TABLE Application: Adding UNIQUE to existing tables
+  - Constraint Naming: Using CONSTRAINT keyword for named constraints
+  - Constraint Removal: Dropping UNIQUE constraints when needed
+- *Current Understanding:*
+  - UNIQUE constraint prevents duplicate values in specified columns
+  - Can be applied to single or multiple columns
+  - Different database systems have varying syntax
+  - Essential for maintaining data uniqueness and integrity
+
     
