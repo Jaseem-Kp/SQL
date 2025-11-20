@@ -647,4 +647,27 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Different database systems have varying syntax
   - Essential for maintaining data uniqueness and integrity
 
+### Day 39: SQL PRIMARY KEY Constraint
+*Date:* 20-11-2025
+- *PRIMARY KEY Introduction:*
+  - Unique Identification: Learning to create unique row identifiers
+  - Combined Constraints: PRIMARY KEY = NOT NULL + UNIQUE
+  - Single Column Keys: Simple primary key implementation
+  - Composite Keys: Primary keys spanning multiple columns
+- *Database Variations:*
+  - MySQL Syntax: PRIMARY KEY in table definition
+  - SQL Server/Oracle Syntax: PRIMARY KEY with column definition
+  - Constraint Naming: Using named constraints for composite keys
+  - Cross-Platform Syntax: Universal ALTER TABLE commands
+- *Constraint Management:*
+  - CREATE TABLE Application: Defining primary keys during table creation
+  - ALTER TABLE Application: Adding primary keys to existing tables
+  - Constraint Removal: Dropping primary key constraints
+  - Single vs Composite: Different syntax for different key types
+- *Current Understanding:*
+  - PRIMARY KEY ensures each row has a unique identifier
+  - Only one primary key allowed per table
+  - Can be single column or multiple columns
+  - Foundation for relational database relationships
+
     
