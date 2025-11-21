@@ -670,4 +670,25 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Can be single column or multiple columns
   - Foundation for relational database relationships
 
-    
+### Day 40: SQL FOREIGN KEY Constraint
+*Date:* 21-11-2025
+- *FOREIGN KEY Introduction:*
+  - Table Relationships: Learning to link data between tables
+  - Referential Integrity: Ensuring valid cross-table references
+  - Parent-Child Links: Connecting foreign keys to primary keys
+  - Relationship Enforcement: Preventing invalid relationships
+- *Database Variations:*
+  - MySQL Syntax: FOREIGN KEY in table definition
+  - SQL Server/Oracle Syntax: FOREIGN KEY with column definition
+  - Constraint Naming: Using named constraints for better management
+  - Cross-Platform Syntax: Universal ALTER TABLE commands
+- *Constraint Management:*
+  - CREATE TABLE Application: Defining foreign keys during table creation
+  - ALTER TABLE Application: Adding foreign keys to existing tables
+  - Constraint Removal: Dropping foreign key constraints
+  - Syntax Differences: Variations across database systems
+- *Current Understanding:*
+  - FOREIGN KEY creates relationships between tables
+  - Ensures data integrity across related tables
+  - Prevents orphaned records in child tables
+  - Foundation for relational database operations
