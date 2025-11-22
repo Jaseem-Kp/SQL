@@ -692,3 +692,28 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Ensures data integrity across related tables
   - Prevents orphaned records in child tables
   - Foundation for relational database operations
+
+### Day 41: SQL CHECK Constraint
+*Date:* 22-11-2025
+- *CHECK Constraint Introduction:*
+  - Custom Validation: Learning to enforce business-specific rules
+  - Conditional Logic: Using expressions for data validation
+  - Single Field Validation: Applying rules to individual columns
+  - Multi-Field Validation: Creating complex rules across columns
+- *Database Variations:*
+  - MySQL Syntax: CHECK constraint in table definition
+  - SQL Server/Oracle Syntax: CHECK with column definition
+  - Constraint Naming: Using named constraints for complex rules
+  - Cross-Platform Syntax: Universal ALTER TABLE commands
+- *Constraint Management:*
+  - CREATE TABLE Application: Defining CHECK constraints during table creation
+  - ALTER TABLE Application: Adding CHECK constraints to existing tables
+  - Constraint Removal: Dropping CHECK constraints
+  - Complex Expressions: Using AND/OR logic in validation rules
+- *Current Understanding:*
+  - CHECK constraint enforces custom data validation rules
+  - Uses conditional expressions to validate data entries
+  - Can validate single columns or complex multi-column conditions
+  - Essential for enforcing business logic at database level
+
+    
