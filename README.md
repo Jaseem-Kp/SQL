@@ -716,4 +716,27 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Can validate single columns or complex multi-column conditions
   - Essential for enforcing business logic at database level
 
+### Day 42: SQL DEFAULT Constraint
+*Date:* 23-11-2025
+- *DEFAULT Constraint Introduction:*
+  - Automatic Values: Learning to provide default data
+  - Static Defaults: Fixed values for common data
+  - Dynamic Defaults: System functions like GETDATE()
+  - Data Consistency: Ensuring consistent values across records
+- *Database Variations:*
+  - MySQL Syntax: ALTER COLUMN SET DEFAULT
+  - SQL Server Syntax: ADD CONSTRAINT DEFAULT FOR column
+  - MS Access Syntax: ALTER COLUMN SET DEFAULT
+  - Oracle Syntax: MODIFY column DEFAULT
+- *Constraint Management:*
+  - CREATE TABLE Application: Defining defaults during table creation
+  - ALTER TABLE Application: Adding defaults to existing tables
+  - Constraint Removal: Dropping default constraints
+  - Syntax Differences: Significant variations across database systems
+- *Current Understanding:*
+  - DEFAULT constraint provides automatic values when none specified
+  - Can use both static values and system functions
+  - Different databases have very different syntax
+  - Essential for automation and data consistency
+
     
