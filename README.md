@@ -739,4 +739,25 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Different databases have very different syntax
   - Essential for automation and data consistency
 
-    
+### Day 43: SQL CREATE INDEX
+*Date:* 24-11-2025
+- *CREATE INDEX Introduction:*
+  - Performance Optimization: Learning to speed up database queries
+  - Single Column Indexes: Creating indexes on individual columns
+  - Composite Indexes: Multi-column indexes for complex searches
+  - Index Naming: Using descriptive names for indexes
+- *Database Variations:*
+  - CREATE INDEX Syntax: Similar across most databases
+  - DROP INDEX Differences: Significant variations in removal syntax
+  - MySQL: ALTER TABLE DROP INDEX
+  - Oracle/SQL Server/MS Access: Different DROP INDEX approaches
+- *Index Management:*
+  - Index Creation: Using CREATE INDEX statement
+  - Index Removal: Dropping indexes when no longer needed
+  - Column Selection: Choosing which columns to index
+  - Naming Conventions: Using meaningful index names
+- *Current Understanding:*
+  - Indexes improve query performance on large tables
+  - Can be created on single or multiple columns
+  - Different databases have different syntax for index management
+  - Foundation for database performance optimization
