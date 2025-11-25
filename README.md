@@ -761,3 +761,22 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Can be created on single or multiple columns
   - Different databases have different syntax for index management
   - Foundation for database performance optimization
+
+### Day 44: SQL AUTO_INCREMENT Field (MySQL)
+*Date:* 25-11-2025
+- *AUTO_INCREMENT Introduction:*
+  - Automatic Numbering: Learning to generate unique IDs automatically
+  - MySQL Specific: Understanding this is a MySQL feature
+  - Primary Key Usage: Typically used with primary key columns
+  - Sequence Management: Controlling starting values and increments
+- *Basic Concepts:*
+  - Automatic Generation: Database handles ID assignment
+  - Simplified Inserts: No need to specify ID values
+  - Sequence Control: Using ALTER TABLE to change starting point
+  - Unique Guarantee: Each record gets a distinct identifier
+- *Current Understanding:*
+  - AUTO_INCREMENT automatically generates unique numbers in MySQL
+  - Used for primary key columns to simplify record creation
+  - Can customize starting value with ALTER TABLE
+  - MySQL-specific syntax (other databases use different approaches)
+    
