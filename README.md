@@ -780,3 +780,22 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Can customize starting value with ALTER TABLE
   - MySQL-specific syntax (other databases use different approaches)
     
+### Day 45: SQL Working with Dates
+*Date:* 26-11-2025
+- *SQL Dates Introduction:*
+  - Date Data Types: Learning DATE, DATETIME, TIMESTAMP, YEAR
+  - Database Variations: Understanding differences between MySQL and SQL Server
+  - Date Formatting: Working with YYYY-MM-DD standard format
+  - Basic Date Queries: Filtering records by specific dates
+- *Basic Concepts:*
+  - Date Storage: How databases store date and time information
+  - Format Importance: Using correct formats for date comparisons
+  - Time Component: Understanding how time affects date queries
+  - Type Selection: Choosing appropriate date types for different needs
+- *Current Understanding:*
+  - Different databases have varying date data types
+  - DATE stores only dates, DATETIME stores dates with times
+  - Proper formatting is crucial for successful date queries
+  - Time portions can affect date comparison results
+ 
+    
