@@ -798,4 +798,20 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Proper formatting is crucial for successful date queries
   - Time portions can affect date comparison results
  
-    
+### Day 46: SQL CREATE VIEW Statement
+*Date:* 27-11-2025
+- *SQL VIEW Introduction:*
+  - Virtual Tables: Learning to create saved query results as tables
+  - View Creation: Using CREATE VIEW to define virtual tables
+  - View Usage: Querying views like regular tables
+  - View Management: Creating, updating, and dropping views
+- *Basic Concepts:*
+  - Data Abstraction: Hiding complex queries behind simple interfaces
+  - Security Control: Restricting data access through views
+  - Query Reusability: Saving frequently used queries as views
+  - View Updates: Using CREATE OR REPLACE to modify views
+- *Current Understanding:*
+  - Views are virtual tables based on SQL queries
+  - Can be used to simplify complex data access
+  - Support filtering, joining, and calculations like regular queries
+  - Can be updated or dropped when no longer needed
