@@ -815,3 +815,21 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Can be used to simplify complex data access
   - Support filtering, joining, and calculations like regular queries
   - Can be updated or dropped when no longer needed
+
+### Day 47: SQL Subquery
+*Date:* 28-11-2025
+- *SQL Subquery Introduction:*
+  - Nested Queries: Learning to use queries inside other queries
+  - Basic Syntax: Understanding subquery structure and placement
+  - Subquery Types: Introduction to single-row, multi-row, and correlated subqueries
+  - Clause Usage: Using subqueries in WHERE and HAVING clauses
+- *Basic Concepts:*
+  - Query within Query: How subqueries execute inside main queries
+  - Result Comparison: Using subquery results for filtering main query
+  - Type Classification: Different categories of subqueries based on results
+  - Multiple Usage: Subqueries with SELECT, UPDATE, DELETE operations
+- *Current Understanding:*
+  - Subqueries are queries nested inside other SQL statements
+  - Can return single values, multiple values, or reference outer queries
+  - Used for complex filtering and calculations
+  - Foundation for advanced SQL querying techniques
