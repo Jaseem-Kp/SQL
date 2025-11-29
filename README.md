@@ -1,4 +1,4 @@
-mc# SQL Learning Journey
+# SQL Learning Journey
 
 This repository documents my progress as I learn and practice SQL, from fundamental concepts to advanced queries.
 
