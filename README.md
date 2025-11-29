@@ -1,4 +1,4 @@
-# SQL Learning Journey
+mc# SQL Learning Journey
 
 This repository documents my progress as I learn and practice SQL, from fundamental concepts to advanced queries.
 
@@ -833,3 +833,24 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Can return single values, multiple values, or reference outer queries
   - Used for complex filtering and calculations
   - Foundation for advanced SQL querying techniques
+
+### Day 48: SQL Subquery Examples
+*Date:* 29-11-2025
+- *Subquery Practical Applications:*
+  - WHERE Clause Filtering: Using subqueries to filter student sections
+  - DELETE Operations: Removing records based on subquery conditions
+  - UPDATE Operations: Modifying data using nested location queries
+  - FROM Clause Subqueries: Creating temporary tables for data selection
+  - JOIN with Subqueries: Combining subquery results with table joins
+- *Real-World Scenarios:*
+  - Student Management: Filtering students by section and location
+  - Data Cleanup: Deleting specific records using subquery conditions
+  - Bulk Updates: Modifying multiple records based on complex criteria
+  - Data Combination: Joining main tables with filtered subquery results
+- *Current Understanding:*
+  - Subqueries are versatile and work with various SQL operations
+  - Can be used in multiple clauses (WHERE, FROM, JOIN)
+  - Practical for real data management tasks
+  - Essential for complex filtering and data manipulation
+
+    
