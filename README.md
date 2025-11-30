@@ -853,4 +853,20 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Practical for real data management tasks
   - Essential for complex filtering and data manipulation
 
-    
+### Day 49: SQL Numeric Data Types
+*Date:* 30-11-2025
+- *Numeric Data Types Introduction:*
+  - Exact Numeric Types: Learning INT, SMALLINT, TINYINT, DECIMAL, NUMERIC
+  - Approximate Numeric Types: Learning FLOAT, REAL for scientific data
+  - Precision Control: Understanding DECIMAL precision and scale
+  - Storage Ranges: Different integer types for different value ranges
+- *Practical Applications:*
+  - Financial Data: Using DECIMAL for prices and amounts
+  - Quantity Storage: Using SMALLINT for product quantities
+  - Scientific Data: Using FLOAT/REAL for measurements
+  - Identifier Storage: Using INT for primary keys
+- *Current Understanding:*
+  - Different numeric types serve different purposes
+  - Exact types for precise calculations (money, counts)
+  - Approximate types for scientific data (temperatures, measurements)
+  - Proper type selection improves performance and accuracy
