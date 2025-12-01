@@ -870,3 +870,23 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Exact types for precise calculations (money, counts)
   - Approximate types for scientific data (temperatures, measurements)
   - Proper type selection improves performance and accuracy
+
+### Day 50: SQL Characters and String Data Types
+*Date:* 01-12-2025
+- *String Data Types Introduction:*
+  - Non-Unicode Types: Learning CHAR, VARCHAR, TEXT for standard text
+  - Unicode Types: Learning NCHAR, NVARCHAR for international text
+  - Fixed vs Variable Length: Understanding storage differences
+  - Large Text Storage: Using TEXT for documents and descriptions
+- *Practical Applications:*
+  - Name Storage: Using VARCHAR for employee names
+  - Document Storage: Using TEXT for biographies and descriptions
+  - International Support: Using NVARCHAR for multilingual applications
+  - Code Storage: Using CHAR for fixed-length codes
+- *Current Understanding:*
+  - Different string types for different text storage needs
+  - CHAR is fixed-length, VARCHAR is variable-length
+  - Unicode types support international characters
+  - TEXT is for large text content
+
+    
