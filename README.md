@@ -889,4 +889,20 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Unicode types support international characters
   - TEXT is for large text content
 
-    
+### Day 51: SQL Date, Time, and Binary Data Types
+*Date:* 02-12-2025
+- *Date/Time Data Types Introduction:*
+  - Date Type: Learning DATE for calendar dates only
+  - Time Type: Learning TIME for time-of-day only
+  - DateTime Type: Learning DATETIME for combined date and time
+  - Temporal Storage: Storing order dates, times, and timestamps
+- *Binary Data Types Introduction:*
+  - Binary Types: Learning BINARY, VARBINARY for raw data storage
+  - Image Storage: Using VARBINARY for product images
+  - File Content: Storing files and media in database columns
+  - Binary Data: Handling non-text content in databases
+- *Current Understanding:*
+  - Different date/time types for different temporal needs
+  - Binary types store files, images, and other non-text data
+  - Proper type selection depends on specific data requirements
+  - Important for applications with timing and file storage needs
