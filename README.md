@@ -906,3 +906,22 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Binary types store files, images, and other non-text data
   - Proper type selection depends on specific data requirements
   - Important for applications with timing and file storage needs
+
+### Day 52: SQL Boolean and Special Data Types
+*Date:* 03-12-2025
+- *Boolean Data Types Introduction:*
+  - BIT Type: Learning to store true/false or yes/no values
+  - Status Tracking: Using BIT for user status flags (active, verified)
+  - Binary States: Representing two-state information in databases
+- *Special Data Types Introduction:*
+  - XML Type: Learning to store structured XML document data
+  - Spatial Types: Learning GEOMETRY for geographical/spatial data
+  - Advanced Formats: Handling non-traditional data formats
+  - Configuration Storage: Using XML for settings and configurations
+- *Current Understanding:*
+  - BIT stores boolean values (typically 0/1 or true/false)
+  - XML stores structured markup language data
+  - GEOMETRY stores geographical coordinates and shapes
+  - Specialized types enable advanced database functionality
+
+    
