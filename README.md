@@ -924,4 +924,20 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - GEOMETRY stores geographical coordinates and shapes
   - Specialized types enable advanced database functionality
 
-    
+### Day 53: SQL DDL (Data Definition Language)
+*Date:* 04-12-2025
+- *DDL Introduction:*
+  - Data Definition Language: Learning SQL commands that define structure
+  - Key Commands: Understanding CREATE, DROP, ALTER, TRUNCATE, RENAME, COMMENT
+  - Structure Management: Commands for creating and modifying database objects
+  - Database Architecture: Building the framework for data storage
+- *Basic Concepts:*
+  - Object Creation: Using CREATE to make tables and other objects
+  - Object Modification: Using ALTER to change existing structures
+  - Object Removal: Using DROP to delete database objects
+  - Data Clearing: Using TRUNCATE to remove data while keeping structure
+- *Current Understanding:*
+  - DDL commands define and manage database structure
+  - Different from DML which manipulates data
+  - Essential for database design and maintenance
+  - Foundation for all database operations
