@@ -941,3 +941,22 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Different from DML which manipulates data
   - Essential for database design and maintenance
   - Foundation for all database operations
+
+### Day 54: SQL DQL (Data Query Language)
+*Date:* 05-12-2025
+- *DQL Introduction:*
+  - Data Query Language: Learning SQL commands for data retrieval
+  - Single Command: Understanding SELECT as the only DQL command
+  - Query Clauses: Learning FROM, WHERE, ORDER BY, and other SELECT clauses
+  - Data Retrieval: Focusing on reading data from databases
+- *Basic Concepts:*
+  - SELECT Command: The primary command for data queries
+  - Clause Structure: How different clauses modify SELECT behavior
+  - Data Filtering: Using WHERE to limit results
+  - Result Organization: Using ORDER BY to sort output
+- *Current Understanding:*
+  - DQL is specifically for querying/reading data
+  - SELECT is the main (and only) DQL command
+  - Various clauses control how data is retrieved and presented
+  - Foundation for all data analysis and reporting operations
+    
