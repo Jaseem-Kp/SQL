@@ -960,3 +960,22 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Various clauses control how data is retrieved and presented
   - Foundation for all data analysis and reporting operations
     
+### Day 55: SQL DML (Data Manipulation Language)
+*Date:* 06-12-2025
+- *DML Introduction:*
+  - Data Manipulation Language: Learning SQL commands that modify data
+  - Key Commands: Understanding INSERT, UPDATE, DELETE operations
+  - Data Operations: Adding, changing, and removing database records
+  - Content Management: Working with the actual data within tables
+- *Basic Concepts:*
+  - Data Addition: Using INSERT to create new records
+  - Data Modification: Using UPDATE to change existing records
+  - Data Removal: Using DELETE to remove records
+  - Content Focus: Unlike DDL which works on structure, DML works on content
+- *Current Understanding:*
+  - DML commands manipulate the data inside database tables
+  - Different from DDL which defines structure and DQL which queries data
+  - Essential for maintaining and updating database content
+  - Foundation for application data operations
+
+    
