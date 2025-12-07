@@ -978,4 +978,21 @@ This repository documents my progress as I learn and practice SQL, from fundamen
   - Essential for maintaining and updating database content
   - Foundation for application data operations
 
+### Day 56: SQL DCL (Data Control Language)
+*Date:* 07-12-2025
+- *DCL Introduction:*
+  - Data Control Language: Learning SQL commands for security management
+  - Permission Commands: Understanding GRANT and REVOKE operations
+  - Access Control: Managing user permissions and privileges
+  - Database Security: Implementing security at command level
+- *Basic Concepts:*
+  - Permission Granting: Using GRANT to give database access
+  - Permission Revocation: Using REVOKE to remove access
+  - User Management: Controlling what different users can do
+  - Security Policies: Enforcing access rules and restrictions
+- *Current Understanding:*
+  - DCL commands manage database security and permissions
+  - GRANT gives users specific privileges
+  - REVOKE removes previously granted privileges
+  - Essential for multi-user database environments
     
